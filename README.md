@@ -1,2 +1,2 @@
 # streetlightinfo-website
-This is the ViewPress backend data ("source code") for the Using Python Training Series Official Website. The website is at https://streetlightinfo.com.
+This is the ViewPress backend data ("source code") for the Streetlight Info website. The website is at https://streetlightinfo.com.
